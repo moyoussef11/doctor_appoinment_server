@@ -14,7 +14,6 @@ Admins can add doctors by specialization; users can register, book or cancel app
 - Role-based access control (Admin, Doctor, User)
 - Body validation and error handling
 - CORS for handling cross-origin requests
-- [Optional] Email service (e.g., Nodemailer) for notifications
 
 ---
 
